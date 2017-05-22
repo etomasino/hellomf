@@ -1,2 +1,3 @@
 Hello MF!
 How is your git going?
+Please create a develop branch, and set it as default branch. Merging directly to master is like suicide stuff :)
